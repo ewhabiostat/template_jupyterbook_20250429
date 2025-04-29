@@ -1,0 +1,12 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: markdown
+- file: notebooks
+- file: markdown-notebooks
+- file: 3_Recursion_Lab_Solution
+- file: 4_Array_Lab_Solution
+- file: 5_Linked_List_Lab_Solution
